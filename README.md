@@ -6,7 +6,7 @@
 
 ## ДЕМО
 
-[Демо](https://github.com/borodin-dmitry/vue-test-eme)
+[Смотреть демо](https://trybr.github.io/vue-eme-test/)
 
 ## Запуск
 
