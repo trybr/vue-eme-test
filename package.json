@@ -5,7 +5,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vue-tsc -b && vite build",
+        "build": "vue-tsc -b && vite build --base=/vue-eme-test/",
         "preview": "vite preview",
         "deploy": "vite build && gh-pages -d dist"
     },

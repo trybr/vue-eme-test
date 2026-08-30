@@ -4,6 +4,10 @@
 
 Автор: Бородин Дмитрий
 
+## ДЕМО
+
+[Демо](https://github.com/borodin-dmitry/vue-test-eme)
+
 ## Запуск
 
 ```bash
